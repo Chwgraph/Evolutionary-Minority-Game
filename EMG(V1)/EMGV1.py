@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-MSDM5003 Final Darwin2
-
-@author: 17100
 """
 
 import numpy as np
