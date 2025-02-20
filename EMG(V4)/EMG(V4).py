@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Dec  6 13:40:00 2023
-
-@author: 17100
 """
 
 import numpy as np
